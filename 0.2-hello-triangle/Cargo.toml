@@ -1,0 +1,12 @@
+
+
+[package]
+name = "rustic-opengl"
+version = "0.2.0"
+
+[dependencies]
+sdl2 = "0.35.1"
+gl   = "0.14.0"
+
+
+
