@@ -2,11 +2,7 @@
 
 extern crate sdl2;
 extern crate gl;
-
-/* use std; */
 use std::ffi::{CString};
-
-
 
 
 fn main () {
@@ -236,8 +232,8 @@ unsafe {
         window.gl_swap_window();
     }
 
-
-
 }
+
+
 
 
